@@ -109,7 +109,7 @@ class _HomePageState extends State<HomePage> {
                               horizontal: 20,
                             ),
                             child: Text(
-                              "Poetry of the Day",
+                              "Quote of the Day",
                               style: TextStyle(
                                 color: Colors.blueGrey,
                                 fontSize: 25,
