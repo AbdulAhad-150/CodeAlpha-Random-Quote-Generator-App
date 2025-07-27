@@ -1,6 +1,7 @@
 # random_quote_generator
 
-A new Flutter project.
+A simple and elegant Flutter app that displays random quotes to inspire and motivate.
+This project was created as Task #2 during my Android Development Internship at CodeAlpha.
 
 ## Getting Started
 
